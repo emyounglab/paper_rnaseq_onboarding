@@ -3,7 +3,7 @@
 Companion data and code to a comparative transcriptomics paper on the oleaginous and halotolerant yeasts Yarrowia lipolytica, Debaryomyces hansenii and Debaryomyces subglobosus (nitrogen starvation, iron starvation, salt stress). It holds the count tables, annotations, R Markdown analyses (DESeq2, WGCNA) and Jupyter notebooks (k-means clustering of DEGs) behind the paper's figures.
 
 ## For whom
-- The repo as a whole: readers and reviewers of the paper, from GitHub (emyounglab/paper_rnaseq_onboarding). It is a public record of the analysis, not a tool.
+- The repo as a whole: Eric, for data analysis now; it becomes the paper's supplement later (GitHub: emyounglab/paper_rnaseq_onboarding). Not a tool.
 - Feeds nothing and reads no other repo.
 
 ## Where
