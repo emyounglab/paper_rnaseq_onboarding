@@ -9,5 +9,3 @@ Companion data and code to a comparative transcriptomics paper on the oleaginous
 ## Where
 - Runs on: Eric's Mac, in RStudio and Jupyter (the Rmd files set a `~/Library/Mobile Documents/.../WPI/Young/data` working directory). Not run on the Windows PCs. Remote: GitHub, public.
 - Data: the count tables, annotation CSVs and result workbooks sit at the repo root; the Rmd and notebooks expect them under `dh/`, `ds`/`dsub/` and `yl/` folders that are not in the repo. Ground truth: the paper's published results.
-
-riker: light
